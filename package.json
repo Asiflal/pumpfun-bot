@@ -1,0 +1,14 @@
+{
+  "name": "pumpfun-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "puppeteer-extra": "^3.3.6",
+    "sqlite3": "^5.1.6",
+    "telegraf": "^4.12.2"
+  }
+}
